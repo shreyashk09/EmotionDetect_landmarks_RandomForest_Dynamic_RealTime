@@ -1,1 +1,1 @@
-# EmotionDetect_landmarks_CNN_Dynamic_RealTime
+# EmotionDetect_landmarks_RandomForest_RealTime
